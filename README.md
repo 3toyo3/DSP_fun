@@ -1,5 +1,14 @@
 # DSP Exploration
 
-This folder is going to organize my DSP based personal projects. 
-Some ideas: bass isolator, guitar tuner (software to hardware?), spectrum analyzer, echomaster dupe, really small speaker (dynamic EQ reverse engineering,smart amp), guitar pedal, synth modules, image tracking, optimize cup microphone, sound responsive. 
+This folder is going to organize my DSP based personal projects. I am currently interested in Audio DSP projects since they are easier to vizualize, but I hope to expand to more image/visual based projects with experience + classes.
+
+Some ideas: 
+* track to tabs 
+* guitar tuner (software vs hardware)
+* really small speaker (dynamic EQ reverse engineering, smart amp)
+* Spotify API playlist generator on common words
+* Synth modules
+* Image tracking
+* Optimize cup microphone
+
 References: to come
