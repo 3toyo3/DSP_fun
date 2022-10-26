@@ -10,5 +10,6 @@ Some ideas:
 * Synth modules
 * Image tracking
 * Optimize cup microphone
+* Codable audio brick black box
 
 References: to come
