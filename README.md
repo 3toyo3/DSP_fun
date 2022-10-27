@@ -9,6 +9,7 @@ Some ideas:
 * Spotify API playlist generator on common words
 * Synth modules
 * Image tracking
+* Arpeggiator
 * Optimize cup microphone
 * Codable audio brick black box
 
